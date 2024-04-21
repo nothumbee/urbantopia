@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Spacious Family Home in Suburb",
+    "description": "A beautiful and spacious 4-bedroom family home located in a quiet suburb, perfect for families looking for a peaceful living environment. Features include a large backyard, modern kitchen, and a two-car garage.",
+    "number_of_bedrooms": 4,
+    "number_of_bathrooms": 3,
+    "area": 2200,
+    "year_built": 2010,
+    "price": 350000.0,
+    "location": "Springfield, 65807",
+    "property_type": "House",
+    "thumbnail_url": "https://example.com/listings/1/thumbnail.jpg",
+    "gallery_urls": "[\"https://example.com/listings/1/gallery/1.jpg\", \"https://example.com/listings/1/gallery/2.jpg\", \"https://example.com/listings/1/gallery/3.jpg\"]",
+    "created_at": "2023-01-15T08:00:00Z",
+    "updated_at": "2023-01-20T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Modern Condo in Downtown",
+    "description": "Experience the heart of the city in this modern 2-bedroom condo. Located in the downtown area, close to shopping, dining, and entertainment. Includes a fully equipped kitchen, balcony with city views, and access to a fitness center.",
+    "number_of_bedrooms": 2,
+    "number_of_bathrooms": 2,
+    "area": 1200,
+    "year_built": 2015,
+    "price": 450000.0,
+    "location": "New York, 10001",
+    "property_type": "Condo",
+    "thumbnail_url": "https://example.com/listings/2/thumbnail.jpg",
+    "gallery_urls": "[\"https://example.com/listings/2/gallery/1.jpg\", \"https://example.com/listings/2/gallery/2.jpg\"]",
+    "created_at": "2023-02-10T09:30:00Z",
+    "updated_at": "2023-02-15T10:25:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Charming Apartment Near Park",
+    "description": "A cozy 1-bedroom apartment situated near a beautiful park. Ideal for individuals or couples. Features include hardwood floors, a modern bathroom, and a spacious living room with ample natural light.",
+    "number_of_bedrooms": 1,
+    "number_of_bathrooms": 1,
+    "area": 850,
+    "year_built": 2000,
+    "price": 250000.0,
+    "location": "San Francisco, 94103",
+    "property_type": "Apartment",
+    "thumbnail_url": "https://example.com/listings/3/thumbnail.jpg",
+    "gallery_urls": "[\"https://example.com/listings/3/gallery/1.jpg\", \"https://example.com/listings/3/gallery/2.jpg\"]",
+    "created_at": "2023-03-05T11:20:00Z",
+    "updated_at": "2023-03-10T14:30:00Z"
+  }
+]
